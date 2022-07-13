@@ -12,7 +12,7 @@ const PortfolioSection = () => {
         <h2 className="mb-4">My Projects</h2>
         <div className="row" id="projects">
           <ProjectCard
-            liveURL={"https://portfolio.kronliu.vercel.app/"}
+            liveURL={"https://portfolio-kappa-rosy.vercel.app/"}
             codeURL={"https://github.com/Happymouse9000/portfolio"}
             title={"Paul"}
             subtitle={"Porfolio Website"}
