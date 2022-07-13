@@ -18,12 +18,11 @@ const AboutSection = () => {
             <div className="about-right">
               <h2 className="my-4">About</h2>
               <p>
-                I am Paul Martin Lorenzo. A Registered
-                Electrical Engineer that has found a passion for Computer
-                Science. Versatile self-motivated learner with an ongoing
-                commitment on learning new skills and technologies. Excited to
-                be at the deployment phase of my new career as software
-                engineer.
+                I am Paul Martin Lorenzo. An Electroncis and Communications
+                Engineer that has found a passion for Computer Science. Highly
+                dedicated to learn and be trained to perform the given position
+                to my utmost capacity, and to assist the company in achieving
+                its goals.
               </p>
 
               <div className="row mt-4">
@@ -39,9 +38,12 @@ const AboutSection = () => {
                   <h6 className="title">Phone</h6>
                   <p className="value">+63 926 014 8726</p>
                   <h6 className="title">Address</h6>
-                  <p className="value">Blk 6 Lt 1, Villa Sta. Catalina, Gen. T. De Leon, Valenzuela City</p>
+                  <p className="value">
+                    Blk 6 Lt 1, Villa Sta. Catalina, Gen. T. De Leon, Valenzuela
+                    City
+                  </p>
                   <h6 className="title">Hobby</h6>
-                  <p className="value">Coding, Guitar</p>
+                  <p className="value">Coding, Music</p>
                 </div>
               </div>
             </div>

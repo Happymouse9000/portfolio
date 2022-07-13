@@ -135,7 +135,10 @@ const ContactSection = () => {
                     <h6>
                       <i className="fa fa-map-marker"></i> Address / Street
                     </h6>
-                    <p>Blk 6, Lt 1, Villa Sta. Catalina, Gen T. De Leon, Valenzuela City</p>
+                    <p>
+                      Blk 6, Lt 1, Villa Sta. Catalina, Gen T. De Leon,
+                      Valenzuela City
+                    </p>
                     <h6>
                       <i className="fa fa-phone"></i> Contact Number
                     </h6>
@@ -143,7 +146,6 @@ const ContactSection = () => {
                     <h6>
                       <i className="fa fa-globe"></i> Website Address
                     </h6>
-                    <p>kronliu.gitlab.io/allen</p>
                   </div>
                 </div>
               </div>
